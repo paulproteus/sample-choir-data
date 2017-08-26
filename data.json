@@ -1,0 +1,14 @@
+{
+  "foldername": "Example Choir Fall 2017",
+  "parts": ["Soprano 1", "Soprano 2"],
+  "songs": [
+    {"filename": "01 - Balance.mp3",
+     "url": "https://freepd.com/Acoustic/Balance.mp3",
+     "part": "Soprano 1"
+    },
+    {"filename": "01 - Bleu.mp3",
+     "url": "https://freepd.com/Acoustic/Bleu.mp3",
+     "part": "Soprano 2"
+    }
+  ]
+}
